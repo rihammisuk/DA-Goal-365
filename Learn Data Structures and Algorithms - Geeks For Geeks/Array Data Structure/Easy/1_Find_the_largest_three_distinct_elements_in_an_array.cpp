@@ -1,5 +1,3 @@
-// C++ program for find the largest
-// three elements in an array
 #include <bits/stdc++.h>
 using namespace std;
 
