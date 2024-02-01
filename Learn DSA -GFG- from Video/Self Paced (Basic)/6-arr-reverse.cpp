@@ -20,7 +20,6 @@ void reverseArr2(int arr[], int n){
 int main(){
     int arr[] = {30,7,6,5,10};
     int n = sizeof(arr)/sizeof(arr[0]);
-    //reverseArr(arr,n);
     reverseArr2(arr,n);
     return 0;
 }
